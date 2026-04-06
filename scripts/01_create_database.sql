@@ -1,0 +1,4 @@
+CREATE DATABASE EcommerceDW;
+GO
+USE EcommerceDW;
+GO
