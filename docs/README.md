@@ -20,4 +20,4 @@ Para estruturação desse projeto aplicando a Modelagem Dimencional, utilizamos 
 Data Warehouse (DW): é um ambiente de armazenamento de dados.Criado para análise estratégica.
 É nesse ambiente que se reúne informações de várias fontes, organiza e padroniza esses dados para que possam ser usados em:
 
--relatórios,indicadores,tomada de decisão,análises históricas e etc.
+- relatórios,indicadores,tomada de decisão,análises históricas e etc.
